@@ -1,0 +1,1 @@
+#Assignment: build a powerful assistant that can answer questions about the weather. You can use any LLM you like, but you should be able to answer questions like "What is the weather like in New York City today?" or "Will it rain tomorrow in San Francisco?".
